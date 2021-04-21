@@ -1,0 +1,13 @@
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.exe
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.deps.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.runtimeconfig.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\netcoreapp3.1\A. Way Too Long Words.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.csprojAssemblyReference.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Way Too Long Words\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\netcoreapp3.1\A. Way Too Long Words.genruntimeconfig.cache
