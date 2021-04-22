@@ -1,0 +1,13 @@
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.exe
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.deps.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.runtimeconfig.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\bin\Debug\netcoreapp3.1\A. Petya and Strings.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.csprojAssemblyReference.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Petya and Strings\A. Petya and Strings\A. Petya and Strings\obj\Debug\netcoreapp3.1\A. Petya and Strings.genruntimeconfig.cache
