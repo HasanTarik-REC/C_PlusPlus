@@ -1,0 +1,13 @@
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.csprojAssemblyReference.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.exe
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.deps.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.runtimeconfig.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\bin\Debug\netcoreapp3.1\A. Team.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.dll
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.pdb
+C:\Users\Sabbir Ahmed\Desktop\New folder\CodeForces Problem Solve\A. Team\A. Team\A. Team\obj\Debug\netcoreapp3.1\A. Team.genruntimeconfig.cache
